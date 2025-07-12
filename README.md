@@ -49,11 +49,7 @@ This project is designed to:
 ---
 
 ## 🖼️ Sample Dashboard
-
-![Sample Power BI Dashboard](./images/sample-dashboard.png)  
-*Visualizing sales trends, customer segmentation, and inventory turnover.*
-
-> Replace the above image path with your actual dashboard screenshot in the `images` folder.
+<img width="1396" height="839" alt="Screenshot 2025-07-12 165749" src="https://github.com/user-attachments/assets/6021110b-f524-4660-a6b1-7a4a371ab617" />
 
 ---
 
